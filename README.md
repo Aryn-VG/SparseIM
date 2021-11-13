@@ -34,7 +34,7 @@ python main.py  --data wikipedia/reddit/mooc
 ```
 #### Training the Sparsification Strategy
 ```{bash}
-python sparse_runner.py  --data wikipedia/reddit/mooc
+python sparse_runner.py  --data wikipedia/reddit/mooc --spar_type sparseIM --prefix TGAT
 ```
 
 ### Requirements
