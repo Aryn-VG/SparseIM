@@ -1,6 +1,6 @@
 # SparseIM
 
-(WWW 2022)
+(SIGIR 2022)
 
 ## Runing the experiments
 
